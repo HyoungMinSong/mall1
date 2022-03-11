@@ -8,6 +8,6 @@
 <title>/movie/list.jsp</title>
 </head>
 <body>
-
+	<p>완료</p>
 </body>
 </html>
